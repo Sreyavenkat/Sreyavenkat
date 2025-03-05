@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreya V</h1>
-<h3 align="center">"A 2nd-year CSE student's journey of learning web development, exploring new fields, and connecting with like-minded people.</h3>
+<h3 align="center">"A 2nd-year CSE student's journey of learning web development, exploring new fields, and connecting with like-minded people."</h3>
 
 - 🌱 I’m currently learning **MERN STACK , Firebase**
 
